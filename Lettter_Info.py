@@ -28,7 +28,7 @@ print(mydict.keys())
 print(mydict.values())
 
 
-//Writing data extracted in dictionary in csv file
+#Writing data extracted in csv file
 csv_file = "C:\\Temp\\Letter_Info.csv"
 try:
 
